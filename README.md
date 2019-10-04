@@ -6,11 +6,11 @@ ______________________________
 
 
 **Models**
->[U-GAT-IT (Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation)](https://arxiv.org/abs/1907.10830)
+>[U-GAT-IT: (Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation)](https://arxiv.org/abs/1907.10830)
 
->[StyleGAN (A Style-Based Generator Architecture for Generative Adversarial Networks)](https://arxiv.org/abs/1812.04948)
+>[StyleGAN: (A Style-Based Generator Architecture for Generative Adversarial Networks)](https://arxiv.org/abs/1812.04948)
 
->[CAN (Creative Adversarial Networks Generating "Art" by Learning About Styles and Deviating from Style Norms)](https://arxiv.org/pdf/1706.07068.pdf)
+>[CAN: (Creative Adversarial Networks Generating "Art" by Learning About Styles and Deviating from Style Norms)](https://arxiv.org/pdf/1706.07068.pdf)
 
 **Citations**
 ```

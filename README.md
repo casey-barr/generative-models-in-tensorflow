@@ -10,6 +10,7 @@ ______________________________
 
 >[StyleGAN (A Style-Based Generator Architecture for Generative Adversarial Networks)](https://arxiv.org/abs/1812.04948)
 
+>[CAN (Creative Adversarial Networks Generating "Art" by Learning About Styles and Deviating from Style Norms)](https://arxiv.org/pdf/1706.07068.pdf)
 
 **Citations**
 ```
@@ -30,5 +31,15 @@ ______________________________
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={4401--4410},
   year={2019}
+}
+```
+
+```
+@misc{2017cans,
+  author = {Phillip Kravtsov and Phillip Kuznetsov},
+  title = {Creative Adversarial Networks},
+  year = {2017},
+  howpublished = {\url{https://github.com/mlberkeley/Creative-Adversarial-Networks}},
+  note = {commit xxxxxxx}
 }
 ```
